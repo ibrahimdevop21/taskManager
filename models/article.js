@@ -19,5 +19,3 @@ const articleSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Article', articleSchema);
-
-//! how To Build A Markdonw blog Using node.js, express, and MongoDB 27:00
